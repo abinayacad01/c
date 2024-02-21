@@ -98,59 +98,71 @@
 // }
 // }
 
-class arithmetic{
-     static void Main(string [] args){
-         Function aa = new Function();
-         aa.ll();
-         aa.mm();
-         aa.oo();
-     }
- }
+// class arithmetic{
+//      static void Main(string [] args){
+//          Function aa = new Function();
+//          aa.ll();
+//          aa.mm();
+//          aa.oo();
+//      }
+//  }
 
- public class Function {
-     public void ll(){
-     int a=20;
-     int b=10;
-     int add=a+b;
-     Console.WriteLine("added value is "+add);
-     int sub=a-b;
-     Console.WriteLine("subracted value is "+sub);
-     int mul=a*b;
-     Console.WriteLine("product value is "+mul);
-     int div=a/b;
-     Console.WriteLine("divided value is "+div);
-     int mod=a%b;
-     Console.WriteLine("modulus value is "+mod);
- }
+//  public class Function {
+//      public void ll(){
+//      int a=20;
+//      int b=10;
+//      int add=a+b;
+//      Console.WriteLine("added value is "+add);
+//      int sub=a-b;
+//      Console.WriteLine("subracted value is "+sub);
+//      int mul=a*b;
+//      Console.WriteLine("product value is "+mul);
+//      int div=a/b;
+//      Console.WriteLine("divided value is "+div);
+//      int mod=a%b;
+//      Console.WriteLine("modulus value is "+mod);
+//  }
 
- public void mm(){
-    int x=100;
-    int y=110;
-    if(x==y){
-        Console.WriteLine("x is equals to y");
-     }
-    else{
-        if(x>y){
-          Console.WriteLine("x is greater than y");  
-        }
+//  public void mm(){
+//     int x=100;
+//     int y=110;
+//     if(x==y){
+//         Console.WriteLine("x is equals to y");
+//      }
+//     else{
+//         if(x>y){
+//           Console.WriteLine("x is greater than y");  
+//         }
 
-        else if(y>x){
-            Console.WriteLine("x is less than y");
-        }
-        else{
-            Console.WriteLine("x is not equals to y");
-        }
-    }
- }
+//         else if(y>x){
+//             Console.WriteLine("x is less than y");
+//         }
+//         else{
+//             Console.WriteLine("x is not equals to y");
+//         }
+//     }
+//  }
 
- public void oo(){
-    var l=78;
-var output1=(40<=l && l<=69)? "wrong" :(76<=l && l<=100) ? "correct" : "none";
-Console.WriteLine(output1);
+//  public void oo(){
+//     var l=78;
+// var output1=(40<=l && l<=69)? "wrong" :(76<=l && l<=100) ? "correct" : "none";
+// Console.WriteLine(output1);
+// }
+//  }
 
+
+public class Inheritance{
+    public string you="you don't need anyone";
 }
- }
+public class Lolo:Inheritance{
+    public string me="be in the delulu";
+}
 
+class Test{
+    public static void Main(string[] args){
+        Lolo p=new Lolo();
 
-
-
+        Console.WriteLine("delulu:"+p.you);
+        Console.WriteLine("solulu:"+p.me);
+    }
+}

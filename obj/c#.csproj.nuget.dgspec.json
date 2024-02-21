@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj": {}
+    "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj": {}
   },
   "projects": {
-    "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj": {
+    "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj",
+        "projectPath": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\c#.csproj",
         "packagesPath": "C:\\Users\\abinayacad01\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\obj\\",
+        "outputPath": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abinayacad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
