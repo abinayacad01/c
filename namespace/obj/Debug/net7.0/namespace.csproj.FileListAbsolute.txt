@@ -1,0 +1,14 @@
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\bin\Debug\net7.0\namespace.exe
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\bin\Debug\net7.0\namespace.deps.json
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\bin\Debug\net7.0\namespace.runtimeconfig.json
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\bin\Debug\net7.0\namespace.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\bin\Debug\net7.0\namespace.pdb
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.AssemblyInfoInputs.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.AssemblyInfo.cs
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.csproj.CoreCompileInputs.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\refint\namespace.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.pdb
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\namespace.genruntimeconfig.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\namespace\obj\Debug\net7.0\ref\namespace.dll
