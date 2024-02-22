@@ -60,6 +60,8 @@
 // }
 
 
+//newwwwwwwwwwwwww
+
 // class Abi{
 //     static void Main(string [] args){
 //         Console.WriteLine("added value is");
@@ -98,6 +100,7 @@
 // }
 // }
 
+// newwwwwwwwwwwwww
 // class arithmetic{
 //      static void Main(string [] args){
 //          Function aa = new Function();
@@ -151,18 +154,84 @@
 //  }
 
 
-public class Inheritance{
-    public string you="you don't need anyone";
-}
-public class Lolo:Inheritance{
-    public string me="be in the delulu";
+//newwwwwwwwwwwwwwwwwwwwwww
+
+// public class Inheritance{
+//     public string you="you don't need anyone";
+// }
+// public class Lolo:Inheritance{
+//     public string me="be in the delulu";
+// }
+
+// class Test{
+//     public static void Main(string[] args){
+//         Lolo p=new Lolo();
+
+//         Console.WriteLine("delulu:"+p.you);
+//         Console.WriteLine("solulu:"+p.me);
+//     }
+// }
+
+class Program{
+
+static void Main(string [] args){
+
+Console.WriteLine("added value is : " + add(5,6));
+Console.WriteLine("added value is : " + add(5,6,7));
+Console.WriteLine("added value is : " + add(5.4,6.1));
+Console.WriteLine("Concatenated value is : " + add("hey ","thereee!!"));
+demo1();
+ Constructordemo cd=new Constructordemo();
+ Constructordemo cd1=new Constructordemo(10,20);
+ cd.demo();
+
 }
 
-class Test{
-    public static void Main(string[] args){
-        Lolo p=new Lolo();
+static int add(int a, int b){
+    return a+b;
+}
 
-        Console.WriteLine("delulu:"+p.you);
-        Console.WriteLine("solulu:"+p.me);
+
+
+static int add(int a, int b,int c){
+    
+    return a+b+c;
+}
+
+
+static double add(double a, double b){
+    return a+b;
+}
+
+
+static string add(string a, string b){
+    return a+b;
+}
+
+ static void demo1(){
+        Console.WriteLine("normal Method in main class");
+
     }
 }
+
+
+
+class Constructordemo{
+
+    public void demo(){
+        Console.WriteLine("normal Method in another class");
+
+    }
+    public Constructordemo(){
+        Console.WriteLine("Welcome");
+    }
+    public Constructordemo(int a, int b){
+        Console.WriteLine("the no. is " + (a+b));
+    }
+}
+
+
+
+
+
+
