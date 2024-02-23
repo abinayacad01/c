@@ -1,0 +1,14 @@
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\bin\Debug\net7.0\single inheritance.exe
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\bin\Debug\net7.0\single inheritance.deps.json
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\bin\Debug\net7.0\single inheritance.runtimeconfig.json
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\bin\Debug\net7.0\single inheritance.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\bin\Debug\net7.0\single inheritance.pdb
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.AssemblyInfoInputs.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.AssemblyInfo.cs
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.csproj.CoreCompileInputs.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\refint\single inheritance.dll
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.pdb
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\single inheritance.genruntimeconfig.cache
+C:\Users\abinayacad01\Desktop\CADBATCH\csharp\single inheritance\obj\Debug\net7.0\ref\single inheritance.dll
