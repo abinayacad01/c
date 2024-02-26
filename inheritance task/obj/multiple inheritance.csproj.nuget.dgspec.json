@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj": {}
+    "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj": {
+    "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj",
+        "projectUniqueName": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj",
         "projectName": "multiple inheritance",
-        "projectPath": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj",
+        "projectPath": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\multiple inheritance.csproj",
         "packagesPath": "C:\\Users\\abinayacad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\obj\\",
+        "outputPath": "c:\\Users\\abinayacad01\\Desktop\\CADBATCH\\csharp\\inheritance task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abinayacad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
